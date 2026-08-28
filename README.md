@@ -14,3 +14,4 @@ Multi-modal 3D object detection fusing LiDAR point clouds and RGB camera data in
 ## Stack
 
 PyTorch · ROS/ROS2 · NVIDIA Jetson · LiDAR/Camera sensor fusion
+ 
